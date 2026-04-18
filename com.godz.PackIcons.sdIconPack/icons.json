@@ -1,0 +1,972 @@
+[
+    {
+        "path": "App - Add-Remove-Stream.png",
+        "name": "App - Add-Remove-Stream.png",
+        "tags": ["godz", "stream", "add", "remove", "broadcast"]
+    },
+    {
+        "path": "App - ARK-ASCENDED.png",
+        "name": "App - ARK-ASCENDED.png",
+        "tags": ["godz", "ark", "ascended", "game", "app"]
+    },
+    {
+        "path": "App - Battlefield-V.png",
+        "name": "App - Battlefield-V.png",
+        "tags": ["godz", "battlefield", "v", "game", "app"]
+    },
+    {
+        "path": "App - GTA-5.png",
+        "name": "App - GTA-5.png",
+        "tags": ["godz", "gta", "5", "game", "app"]
+    },
+    {
+        "path": "App - House-Flipper.png",
+        "name": "App - House-Flipper.png",
+        "tags": ["godz", "house", "flipper", "game", "app"]
+    },
+    {
+        "path": "App - House-Flipper-2.png",
+        "name": "App - House-Flipper-2.png",
+        "tags": ["godz", "house", "flipper", "2", "game", "app"]
+    },
+    {
+        "path": "App - New-World.png",
+        "name": "App - New-World.png",
+        "tags": ["godz", "new", "world", "game", "app"]
+    },
+    {
+        "path": "App - No-Man-Sky.png",
+        "name": "App - No-Man-Sky.png",
+        "tags": ["godz", "no", "man", "sky", "game", "app"]
+    },
+    {
+        "path": "App - PUBG.png",
+        "name": "App - PUBG.png",
+        "tags": ["godz", "pubg", "game", "app"]
+    },
+    {
+        "path": "App - Ranch-Simulator.png",
+        "name": "App - Ranch-Simulator.png",
+        "tags": ["godz", "ranch", "simulator", "game", "app"]
+    },
+    {
+        "path": "App - Red-Dead-2.png",
+        "name": "App - Red-Dead-2.png",
+        "tags": ["godz", "red", "dead", "2", "game", "app"]
+    },
+    {
+        "path": "App - Return-to-Moria.png",
+        "name": "App - Return-to-Moria.png",
+        "tags": ["godz", "return", "to", "moria", "game", "app"]
+    },
+    {
+        "path": "App - Sea-of-Thieves.png",
+        "name": "App - Sea-of-Thieves.png",
+        "tags": ["godz", "sea", "of", "thieves", "game", "app"]
+    },
+    {
+        "path": "App - The-Division-2.png",
+        "name": "App - The-Division-2.png",
+        "tags": ["godz", "the", "division", "2", "game", "app"]
+    },
+    {
+        "path": "App - World-War-Z.png",
+        "name": "App - World-War-Z.png",
+        "tags": ["godz", "world", "war", "z", "game", "app"]
+    },
+    {
+        "path": "App - CS2.png ",
+        "name": "App - CS2.png",
+        "tags": ["godz", "cs2", "game", "app"]
+    },
+    {
+        "path": "App - ParamountPlus.png",
+        "name": "App - Paramount Plus.png",
+        "tags": ["godz", "paramount", "plus", "stream", "app"]
+    },
+    {
+        "path": "App - HBOMAX.png",
+        "name": "App - HBOMAX.png",
+        "tags": ["godz", "hbomax", "stream", "app"]
+    },
+    {
+        "path": "App - Iniciando-Live.png",
+        "name": "App - Iniciando-Live.png",
+        "tags": ["godz", "iniciando", "live", "stream", "app"]
+    },
+    {
+        "path": "App - Ja-Volto.png",
+        "name": "App - Ja-Volto.png",
+        "tags": ["godz", "ja", "volto", "live", "stream", "app"]
+    },
+    {
+        "path": "App - Jogando.png",
+        "name": "App - Jogando.png",
+        "tags": ["godz", "jogando", "live", "stream", "app"]
+    },
+    {
+        "path": "App - Navegador-chat.png",
+        "name": "App - Navegador-chat.png",
+        "tags": ["godz", "navegador", "chat", "live", "stream", "app"]
+    },
+    {
+        "path": "App - Fim-Live.png",
+        "name": "App - Fim-Live.png",
+        "tags": ["godz", "fim", "live", "stream", "app"]
+    },
+    {
+        "path": "App - Adobe-Acrobat.png",
+        "name": "App - Adobe-Acrobat.png",
+        "tags": ["godz", "adobe", "acrobat", "pdf", "app"]
+    },
+    {
+        "path": "App - Disco-c.png",
+        "name": "App - Disco-c.png",
+        "tags": ["godz", "disco", "c", "music", "app"]
+    },
+    {
+        "path": "App - Disco-D.png",
+        "name": "App - Disco-D.png",
+        "tags": ["godz", "disco", "d", "music", "app"]
+    },
+    {
+        "path": "App - Disco-E.png",
+        "name": "App - Disco-E.png",
+        "tags": ["godz", "disco", "e", "music", "app"]
+    },
+    {
+        "path": "App - Disco-F.png",
+        "name": "App - Disco-F.png",
+        "tags": ["godz", "disco", "f", "music", "app"]
+    },
+    {
+        "path": "App - Disco-H.png",
+        "name": "App - Disco-H.png",
+        "tags": ["godz", "disco", "h", "music", "app"]
+    },
+    {
+        "path": "App - Disco-C.png",
+        "name": "App - Disco-C.png",
+        "tags": ["godz", "disco", "c", "music", "app"]
+    },
+    {
+        "path": "App - Chromin.png",
+        "name": "App - Chromin.png",
+        "tags": ["godz", "chromin", "programming", "app"]
+    },
+    {
+        "path": "App - Adobe-XD.png",
+        "name": "App - Adobe-XD.png",
+        "tags": ["godz", "adobe", "xd", "design", "app"]
+    },
+    {
+        "path": "App - Blender.png",
+        "name": "App - Blender.png",
+        "tags": ["godz", "blender", "3d", "design", "app"]
+    },
+    {
+        "path": "App - Crunchyroll!.png",
+        "name": "App - Crunchyroll!.png",
+        "tags": ["godz", "crunchyroll", "anime", "stream", "app"]
+    },
+    {
+        "path": "App - Tiktok.png",
+        "name": "App - Tiktok.png",
+        "tags": ["godz", "tiktok", "social", "video", "app"]
+    },
+    {
+        "path": "App - After-Effects.png",
+        "name": "App - After-Effects.png",
+        "tags": ["godz", "adobe", "after effects", "video", "motion", "app"]
+    },
+    {
+        "path": "App - Alert.png",
+        "name": "App - Alert.png",
+        "tags": ["godz", "alert", "notification", "stream"]
+    },
+    {
+        "path": "App - Alert-Fast.png",
+        "name": "App - Alert-Fast.png",
+        "tags": ["godz", "alert", "fast", "notification", "stream"]
+    },
+    {
+        "path": "App - Alert-X-Check.png",
+        "name": "App - Alert-X-Check.png",
+        "tags": ["godz", "alert", "check", "notification", "stream"]
+    },
+    {
+        "path": "App - Align-Left-Center.png",
+        "name": "App - Align-Left-Center.png",
+        "tags": ["godz", "align", "text", "layout"]
+    },
+    {
+        "path": "App - Amazon.png",
+        "name": "App - Amazon.png",
+        "tags": ["godz", "amazon", "web", "shopping", "app"]
+    },
+    {
+        "path": "App - AMD.png",
+        "name": "App - AMD.png",
+        "tags": ["godz", "amd", "hardware", "gpu", "app"]
+    },
+    {
+        "path": "App - Animated.png",
+        "name": "App - Animated.png",
+        "tags": ["godz", "animated", "animation", "motion"]
+    },
+    {
+        "path": "App - Arrow-Left.png",
+        "name": "App - Arrow-Left.png",
+        "tags": ["godz", "arrow", "left", "navigation", "back"]
+    },
+    {
+        "path": "App - Arrow-Right.png",
+        "name": "App - Arrow-Right.png",
+        "tags": ["godz", "arrow", "right", "navigation", "next"]
+    },
+    {
+        "path": "App - Audition.png",
+        "name": "App - Audition.png",
+        "tags": ["godz", "adobe", "audition", "audio", "app"]
+    },
+    {
+        "path": "App - Autodesk.png",
+        "name": "App - Autodesk.png",
+        "tags": ["godz", "autodesk", "3d", "design", "app"]
+    },
+    {
+        "path": "App - Bloco-de-Notas.png",
+        "name": "App - Bloco-de-Notas.png",
+        "tags": ["godz", "notepad", "text", "editor", "app"]
+    },
+    {
+        "path": "App - Brigde.png",
+        "name": "App - Brigde.png",
+        "tags": ["godz", "adobe", "bridge", "media", "app"]
+    },
+    {
+        "path": "App - Brightness-Down.png",
+        "name": "App - Brightness-Down.png",
+        "tags": ["godz", "brightness", "down", "light", "display"]
+    },
+    {
+        "path": "App - Brightness-Up.png",
+        "name": "App - Brightness-Up.png",
+        "tags": ["godz", "brightness", "up", "light", "display"]
+    },
+    {
+        "path": "App - Broadcast.png",
+        "name": "App - Broadcast.png",
+        "tags": ["godz", "broadcast", "stream", "live"]
+    },
+    {
+        "path": "App - Calculadora.png",
+        "name": "App - Calculadora.png",
+        "tags": ["godz", "calculator", "math", "utility", "app"]
+    },
+    {
+        "path": "App - Câmera.png",
+        "name": "App - Câmera.png",
+        "tags": ["godz", "camera", "photo", "capture"]
+    },
+    {
+        "path": "App - Cam-Off.png",
+        "name": "App - Cam-Off.png",
+        "tags": ["godz", "camera", "off", "webcam", "disabled"]
+    },
+    {
+        "path": "App - Cam-Recording.png",
+        "name": "App - Cam-Recording.png",
+        "tags": ["godz", "camera", "recording", "webcam", "video"]
+    },
+    {
+        "path": "App - Cam-Switch.png",
+        "name": "App - Cam-Switch.png",
+        "tags": ["godz", "camera", "switch", "webcam", "toggle"]
+    },
+    {
+        "path": "App - Character-Animator.png",
+        "name": "App - Character-Animator.png",
+        "tags": ["godz", "adobe", "character animator", "animation", "app"]
+    },
+    {
+        "path": "App - Chat-Bubble.png",
+        "name": "App - Chat-Bubble.png",
+        "tags": ["godz", "chat", "bubble", "message", "communication"]
+    },
+    {
+        "path": "App - Chat-Comms.png",
+        "name": "App - Chat-Comms.png",
+        "tags": ["godz", "chat", "communication", "message"]
+    },
+    {
+        "path": "App - Chats-Gaming.png",
+        "name": "App - Chats-Gaming.png",
+        "tags": ["godz", "chat", "gaming", "communication", "game"]
+    },
+    {
+        "path": "App - Clapperboard.png",
+        "name": "App - Clapperboard.png",
+        "tags": ["godz", "clapperboard", "video", "movie", "scene"]
+    },
+    {
+        "path": "App - Click-Touch.png",
+        "name": "App - Click-Touch.png",
+        "tags": ["godz", "click", "touch", "cursor", "input"]
+    },
+    {
+        "path": "App - Color-Wheel.png",
+        "name": "App - Color-Wheel.png",
+        "tags": ["godz", "color", "wheel", "palette", "design"]
+    },
+    {
+        "path": "App - Corsair.png",
+        "name": "App - Corsair.png",
+        "tags": ["godz", "corsair", "hardware", "peripheral", "app"]
+    },
+    {
+        "path": "App - Creative-Cloud.png",
+        "name": "App - Creative-Cloud.png",
+        "tags": ["godz", "adobe", "creative cloud", "app"]
+    },
+    {
+        "path": "App - Crown-Prime.png",
+        "name": "App - Crown-Prime.png",
+        "tags": ["godz", "crown", "prime", "premium", "vip"]
+    },
+    {
+        "path": "App - Dados-Gaming.png",
+        "name": "App - Dados-Gaming.png",
+        "tags": ["godz", "dice", "gaming", "game", "random"]
+    },
+    {
+        "path": "App - Dimension.png",
+        "name": "App - Dimension.png",
+        "tags": ["godz", "adobe", "dimension", "3d", "app"]
+    },
+    {
+        "path": "App - Discord.png",
+        "name": "App - Discord.png",
+        "tags": ["godz", "discord", "chat", "voice", "app"]
+    },
+    {
+        "path": "App - Dreamweaver.png",
+        "name": "App - Dreamweaver.png",
+        "tags": ["godz", "adobe", "dreamweaver", "web", "app"]
+    },
+    {
+        "path": "App - Dropbox.png",
+        "name": "App - Dropbox.png",
+        "tags": ["godz", "dropbox", "cloud", "storage", "app"]
+    },
+    {
+        "path": "App - Drop-Hue.png",
+        "name": "App - Drop-Hue.png",
+        "tags": ["godz", "hue", "color", "drop", "light"]
+    },
+    {
+        "path": "App - E-mail-Mail.png",
+        "name": "App - E-mail-Mail.png",
+        "tags": ["godz", "email", "mail", "message", "app"]
+    },
+    {
+        "path": "App - Epic-Games.png",
+        "name": "App - Epic-Games.png",
+        "tags": ["godz", "epic games", "gaming", "store", "app"]
+    },
+    {
+        "path": "App - Excel.png",
+        "name": "App - Excel.png",
+        "tags": ["godz", "microsoft", "excel", "spreadsheet", "app"]
+    },
+    {
+        "path": "App - Explorador-de-Arquivos.png",
+        "name": "App - Explorador-de-Arquivos.png",
+        "tags": ["godz", "file explorer", "files", "folder", "app"]
+    },
+    {
+        "path": "App - Facebook.png",
+        "name": "App - Facebook.png",
+        "tags": ["godz", "facebook", "social", "web", "app"]
+    },
+    {
+        "path": "App - Favorite-Star.png",
+        "name": "App - Favorite-Star.png",
+        "tags": ["godz", "favorite", "star", "bookmark"]
+    },
+    {
+        "path": "App - Ferramenta-de-Captura.png",
+        "name": "App - Ferramenta-de-Captura.png",
+        "tags": ["godz", "snipping tool", "screenshot", "capture", "app"]
+    },
+    {
+        "path": "App - Firefox.png",
+        "name": "App - Firefox.png",
+        "tags": ["godz", "firefox", "browser", "web", "app"]
+    },
+    {
+        "path": "App - Fire-Hot.png",
+        "name": "App - Fire-Hot.png",
+        "tags": ["godz", "fire", "hot", "flame", "trending"]
+    },
+    {
+        "path": "App - Folder.png",
+        "name": "App - Folder.png",
+        "tags": ["godz", "folder", "directory", "files"]
+    },
+    {
+        "path": "App - Gallery.png",
+        "name": "App - Gallery.png",
+        "tags": ["godz", "gallery", "photos", "images"]
+    },
+    {
+        "path": "App - Gamers-Club.png",
+        "name": "App - Gamers-Club.png",
+        "tags": ["godz", "gamers club", "gaming", "esports", "app"]
+    },
+    {
+        "path": "App - Gerenciador-de-Tarefas.png",
+        "name": "App - Gerenciador-de-Tarefas.png",
+        "tags": ["godz", "task manager", "system", "utility", "app"]
+    },
+    {
+        "path": "App - GOG.png",
+        "name": "App - GOG.png",
+        "tags": ["godz", "gog", "gaming", "store", "app"]
+    },
+    {
+        "path": "App - Google.png",
+        "name": "App - Google.png",
+        "tags": ["godz", "google", "search", "web", "app"]
+    },
+    {
+        "path": "App - Google-Chrome.png",
+        "name": "App - Google-Chrome.png",
+        "tags": ["godz", "google", "chrome", "browser", "app"]
+    },
+    {
+        "path": "App - Google-Drive.png",
+        "name": "App - Google-Drive.png",
+        "tags": ["godz", "google", "drive", "cloud", "storage", "app"]
+    },
+    {
+        "path": "App - High-Vol.png",
+        "name": "App - High-Vol.png",
+        "tags": ["godz", "volume", "high", "audio", "sound"]
+    },
+    {
+        "path": "App - Home.png",
+        "name": "App - Home.png",
+        "tags": ["godz", "home", "main", "navigation"]
+    },
+    {
+        "path": "App - Hourglass.png",
+        "name": "App - Hourglass.png",
+        "tags": ["godz", "hourglass", "timer", "wait", "loading"]
+    },
+    {
+        "path": "App - Image.png",
+        "name": "App - Image.png",
+        "tags": ["godz", "image", "photo", "picture"]
+    },
+    {
+        "path": "App - InDesign.png",
+        "name": "App - InDesign.png",
+        "tags": ["godz", "adobe", "indesign", "design", "publish", "app"]
+    },
+    {
+        "path": "App - Instagram.png",
+        "name": "App - Instagram.png",
+        "tags": ["godz", "instagram", "social", "photo", "app"]
+    },
+    {
+        "path": "App - Intel.png",
+        "name": "App - Intel.png",
+        "tags": ["godz", "intel", "hardware", "cpu", "app"]
+    },
+    {
+        "path": "App - Internet-Explorer.png",
+        "name": "App - Internet-Explorer.png",
+        "tags": ["godz", "internet explorer", "browser", "web", "app"]
+    },
+    {
+        "path": "App - iTunes.png",
+        "name": "App - iTunes.png",
+        "tags": ["godz", "itunes", "apple", "music", "app"]
+    },
+    {
+        "path": "App - Lightbulb-(Off).png",
+        "name": "App - Lightbulb-(Off).png",
+        "tags": ["godz", "lightbulb", "off", "light", "disabled"]
+    },
+    {
+        "path": "App - Lightbulb-(Sun).png",
+        "name": "App - Lightbulb-(Sun).png",
+        "tags": ["godz", "lightbulb", "on", "light", "sun"]
+    },
+    {
+        "path": "App - Lightroom.png",
+        "name": "App - Lightroom.png",
+        "tags": ["godz", "adobe", "lightroom", "photo", "app"]
+    },
+    {
+        "path": "App - Lightroom-Classic.png",
+        "name": "App - Lightroom-Classic.png",
+        "tags": ["godz", "adobe", "lightroom classic", "photo", "app"]
+    },
+    {
+        "path": "App - Link.png",
+        "name": "App - Link.png",
+        "tags": ["godz", "link", "url", "web", "chain"]
+    },
+    {
+        "path": "App - Low-Vol.png",
+        "name": "App - Low-Vol.png",
+        "tags": ["godz", "volume", "low", "audio", "sound"]
+    },
+    {
+        "path": "App - Map-Pin.png",
+        "name": "App - Map-Pin.png",
+        "tags": ["godz", "map", "pin", "location", "navigation"]
+    },
+    {
+        "path": "App - Med-Vol.png",
+        "name": "App - Med-Vol.png",
+        "tags": ["godz", "volume", "medium", "audio", "sound"]
+    },
+    {
+        "path": "App - Mic-Off.png",
+        "name": "App - Mic-Off.png",
+        "tags": ["godz", "microphone", "off", "mute", "audio"]
+    },
+    {
+        "path": "App - Mic-On.png",
+        "name": "App - Mic-On.png",
+        "tags": ["godz", "microphone", "on", "audio", "voice"]
+    },
+    {
+        "path": "App - Microsoft-Edge.png",
+        "name": "App - Microsoft-Edge.png",
+        "tags": ["godz", "microsoft", "edge", "browser", "app"]
+    },
+    {
+        "path": "App - Monitor-1.png",
+        "name": "App - Monitor-1.png",
+        "tags": ["godz", "monitor", "screen", "display", "1"]
+    },
+    {
+        "path": "App - Monitor-2.png",
+        "name": "App - Monitor-2.png",
+        "tags": ["godz", "monitor", "screen", "display", "2"]
+    },
+    {
+        "path": "App - Monitor-3.png",
+        "name": "App - Monitor-3.png",
+        "tags": ["godz", "monitor", "screen", "display", "3"]
+    },
+    {
+        "path": "App - Monitor-4.png",
+        "name": "App - Monitor-4.png",
+        "tags": ["godz", "monitor", "screen", "display", "4"]
+    },
+    {
+        "path": "App - Monitor-5.png",
+        "name": "App - Monitor-5.png",
+        "tags": ["godz", "monitor", "screen", "display", "5"]
+    },
+    {
+        "path": "App - Monitor-6.png",
+        "name": "App - Monitor-6.png",
+        "tags": ["godz", "monitor", "screen", "display", "6"]
+    },
+    {
+        "path": "App - Monitor-7.png",
+        "name": "App - Monitor-7.png",
+        "tags": ["godz", "monitor", "screen", "display", "7"]
+    },
+    {
+        "path": "App - Monitor-8.png",
+        "name": "App - Monitor-8.png",
+        "tags": ["godz", "monitor", "screen", "display", "8"]
+    },
+    {
+        "path": "App - Monitor-9.png",
+        "name": "App - Monitor-9.png",
+        "tags": ["godz", "monitor", "screen", "display", "9"]
+    },
+    {
+        "path": "App - Monitor-Check.png",
+        "name": "App - Monitor-Check.png",
+        "tags": ["godz", "monitor", "check", "display", "ok"]
+    },
+    {
+        "path": "App - Monitor-Error.png",
+        "name": "App - Monitor-Error.png",
+        "tags": ["godz", "monitor", "error", "display", "warning"]
+    },
+    {
+        "path": "App - Monitor-S.png",
+        "name": "App - Monitor-S.png",
+        "tags": ["godz", "monitor", "screen", "display"]
+    },
+    {
+        "path": "App - Monitor-Upload.png",
+        "name": "App - Monitor-Upload.png",
+        "tags": ["godz", "monitor", "upload", "display", "transfer"]
+    },
+    {
+        "path": "App - Movie-Scene.png",
+        "name": "App - Movie-Scene.png",
+        "tags": ["godz", "movie", "scene", "video", "film"]
+    },
+    {
+        "path": "App - Music.png",
+        "name": "App - Music.png",
+        "tags": ["godz", "music", "audio", "sound", "note"]
+    },
+    {
+        "path": "App - Musics.png",
+        "name": "App - Musics.png",
+        "tags": ["godz", "music", "playlist", "audio", "songs"]
+    },
+    {
+        "path": "App - Mute-Volume.png",
+        "name": "App - Mute-Volume.png",
+        "tags": ["godz", "mute", "volume", "audio", "silent"]
+    },
+    {
+        "path": "App - Next-Track.png",
+        "name": "App - Next-Track.png",
+        "tags": ["godz", "next", "track", "media", "forward"]
+    },
+    {
+        "path": "App - Nintendo-Switch.png",
+        "name": "App - Nintendo-Switch.png",
+        "tags": ["godz", "nintendo", "switch", "gaming", "console", "app"]
+    },
+    {
+        "path": "App - NVIDIA.png",
+        "name": "App - NVIDIA.png",
+        "tags": ["godz", "nvidia", "gpu", "hardware", "app"]
+    },
+    {
+        "path": "App - OBS-Studio.png",
+        "name": "App - OBS-Studio.png",
+        "tags": ["godz", "obs", "studio", "stream", "recording", "app"]
+    },
+    {
+        "path": "App - OneDrive.png",
+        "name": "App - OneDrive.png",
+        "tags": ["godz", "microsoft", "onedrive", "cloud", "storage", "app"]
+    },
+    {
+        "path": "App - OneNote.png",
+        "name": "App - OneNote.png",
+        "tags": ["godz", "microsoft", "onenote", "notes", "app"]
+    },
+    {
+        "path": "App - Opera.png",
+        "name": "App - Opera.png",
+        "tags": ["godz", "opera", "browser", "web", "app"]
+    },
+    {
+        "path": "App - Origin.png",
+        "name": "App - Origin.png",
+        "tags": ["godz", "origin", "ea", "gaming", "app"]
+    },
+    {
+        "path": "App - Outlook.png",
+        "name": "App - Outlook.png",
+        "tags": ["godz", "microsoft", "outlook", "email", "app"]
+    },
+    {
+        "path": "App - Paint-Tool-SAI.png",
+        "name": "App - Paint-Tool-SAI.png",
+        "tags": ["godz", "paint tool sai", "drawing", "art", "app"]
+    },
+    {
+        "path": "App - Pen-Draw.png",
+        "name": "App - Pen-Draw.png",
+        "tags": ["godz", "pen", "draw", "art", "design"]
+    },
+    {
+        "path": "App - Philips-Hue-(Bulb).png",
+        "name": "App - Philips-Hue-(Bulb).png",
+        "tags": ["godz", "philips", "hue", "bulb", "light", "smart"]
+    },
+    {
+        "path": "App - Philips-Hue-(Light).png",
+        "name": "App - Philips-Hue-(Light).png",
+        "tags": ["godz", "philips", "hue", "light", "smart"]
+    },
+    {
+        "path": "App - Photoshop.png",
+        "name": "App - Photoshop.png",
+        "tags": ["godz", "adobe", "photoshop", "photo", "design", "app"]
+    },
+    {
+        "path": "App - PlayStation.png",
+        "name": "App - PlayStation.png",
+        "tags": ["godz", "playstation", "sony", "gaming", "console", "app"]
+    },
+    {
+        "path": "App - Play-YouTube.png",
+        "name": "App - Play-YouTube.png",
+        "tags": ["godz", "play", "youtube", "video", "media"]
+    },
+    {
+        "path": "App - Pop-out.png",
+        "name": "App - Pop-out.png",
+        "tags": ["godz", "pop out", "window", "external"]
+    },
+    {
+        "path": "App - Power-Off.png",
+        "name": "App - Power-Off.png",
+        "tags": ["godz", "power", "off", "shutdown", "system"]
+    },
+    {
+        "path": "App - PowerPoint.png",
+        "name": "App - PowerPoint.png",
+        "tags": ["godz", "microsoft", "powerpoint", "presentation", "app"]
+    },
+    {
+        "path": "App - Premiere-Pro.png",
+        "name": "App - Premiere-Pro.png",
+        "tags": ["godz", "adobe", "premiere pro", "video", "editing", "app"]
+    },
+    {
+        "path": "App - Premiere-Rush.png",
+        "name": "App - Premiere-Rush.png",
+        "tags": ["godz", "adobe", "premiere rush", "video", "editing", "app"]
+    },
+    {
+        "path": "App - Previous-Track.png",
+        "name": "App - Previous-Track.png",
+        "tags": ["godz", "previous", "track", "media", "back"]
+    },
+    {
+        "path": "App - Refresh.png",
+        "name": "App - Refresh.png",
+        "tags": ["godz", "refresh", "reload", "update"]
+    },
+    {
+        "path": "App - Refresh-Sync.png",
+        "name": "App - Refresh-Sync.png",
+        "tags": ["godz", "refresh", "sync", "update", "reload"]
+    },
+    {
+        "path": "App - Reset-Standby.png",
+        "name": "App - Reset-Standby.png",
+        "tags": ["godz", "reset", "standby", "power", "system"]
+    },
+    {
+        "path": "App - Roblox.png",
+        "name": "App - Roblox.png",
+        "tags": ["godz", "roblox", "gaming", "game", "app"]
+    },
+    {
+        "path": "App - Safari.png",
+        "name": "App - Safari.png",
+        "tags": ["godz", "safari", "browser", "apple", "web", "app"]
+    },
+    {
+        "path": "App - Salt-Shaker.png",
+        "name": "App - Salt-Shaker.png",
+        "tags": ["godz", "salt", "shaker", "salty", "emote"]
+    },
+    {
+        "path": "App - Share.png",
+        "name": "App - Share.png",
+        "tags": ["godz", "share", "social", "send"]
+    },
+    {
+        "path": "App - Shields-Security.png",
+        "name": "App - Shields-Security.png",
+        "tags": ["godz", "shield", "security", "protection", "safe"]
+    },
+    {
+        "path": "App - Skype.png",
+        "name": "App - Skype.png",
+        "tags": ["godz", "skype", "call", "video", "communication", "app"]
+    },
+    {
+        "path": "App - Smart-Light.png",
+        "name": "App - Smart-Light.png",
+        "tags": ["godz", "smart", "light", "iot", "home"]
+    },
+    {
+        "path": "App - Sound-Bars.png",
+        "name": "App - Sound-Bars.png",
+        "tags": ["godz", "sound", "bars", "audio", "equalizer"]
+    },
+    {
+        "path": "App - SoundCloud.png",
+        "name": "App - SoundCloud.png",
+        "tags": ["godz", "soundcloud", "music", "audio", "app"]
+    },
+    {
+        "path": "App - Source-1-&-2.png",
+        "name": "App - Source-1-&-2.png",
+        "tags": ["godz", "source", "obs", "stream", "scene"]
+    },
+    {
+        "path": "App - Speed-Boost.png",
+        "name": "App - Speed-Boost.png",
+        "tags": ["godz", "speed", "boost", "fast", "performance"]
+    },
+    {
+        "path": "App - Spotify.png",
+        "name": "App - Spotify.png",
+        "tags": ["godz", "spotify", "music", "audio", "app"]
+    },
+    {
+        "path": "App - Statistics.png",
+        "name": "App - Statistics.png",
+        "tags": ["godz", "statistics", "analytics", "data", "chart"]
+    },
+    {
+        "path": "App - Steam.png",
+        "name": "App - Steam.png",
+        "tags": ["godz", "steam", "gaming", "store", "app"]
+    },
+    {
+        "path": "App - Stop.png",
+        "name": "App - Stop.png",
+        "tags": ["godz", "stop", "media", "control"]
+    },
+    {
+        "path": "App - streamelements.png",
+        "name": "App - streamelements.png",
+        "tags": ["godz", "streamelements", "stream", "overlay", "app"]
+    },
+    {
+        "path": "App - Stream-Elements.png",
+        "name": "App - Stream-Elements.png",
+        "tags": ["godz", "stream elements", "stream", "overlay", "app"]
+    },
+    {
+        "path": "App - Stream-Heart.png",
+        "name": "App - Stream-Heart.png",
+        "tags": ["godz", "stream", "heart", "love", "follow"]
+    },
+    {
+        "path": "App - Stream-Message.png",
+        "name": "App - Stream-Message.png",
+        "tags": ["godz", "stream", "message", "chat", "notification"]
+    },
+    {
+        "path": "App - Stream-Up.png",
+        "name": "App - Stream-Up.png",
+        "tags": ["godz", "stream", "up", "live", "broadcast"]
+    },
+    {
+        "path": "App - Stream-Video.png",
+        "name": "App - Stream-Video.png",
+        "tags": ["godz", "stream", "video", "live", "broadcast"]
+    },
+    {
+        "path": "App - Sub-Badge.png",
+        "name": "App - Sub-Badge.png",
+        "tags": ["godz", "sub", "badge", "subscriber", "twitch"]
+    },
+    {
+        "path": "App - Teams.png",
+        "name": "App - Teams.png",
+        "tags": ["godz", "microsoft", "teams", "communication", "app"]
+    },
+    {
+        "path": "App - TeamSpeak.png",
+        "name": "App - TeamSpeak.png",
+        "tags": ["godz", "teamspeak", "voice", "communication", "app"]
+    },
+    {
+        "path": "App - Text.png",
+        "name": "App - Text.png",
+        "tags": ["godz", "text", "type", "write", "input"]
+    },
+    {
+        "path": "App - Timer.png",
+        "name": "App - Timer.png",
+        "tags": ["godz", "timer", "countdown", "clock", "time"]
+    },
+    {
+        "path": "App - Toggle-Off.png",
+        "name": "App - Toggle-Off.png",
+        "tags": ["godz", "toggle", "off", "switch", "disabled"]
+    },
+    {
+        "path": "App - Toggle-On.png",
+        "name": "App - Toggle-On.png",
+        "tags": ["godz", "toggle", "on", "switch", "enabled"]
+    },
+    {
+        "path": "App - Twitch.png",
+        "name": "App - Twitch.png",
+        "tags": ["godz", "twitch", "stream", "gaming", "app"]
+    },
+    {
+        "path": "App - Twitter-(X).png",
+        "name": "App - Twitter-(X).png",
+        "tags": ["godz", "twitter", "x", "social", "app"]
+    },
+    {
+        "path": "App - Ubisoft-Connect.png",
+        "name": "App - Ubisoft-Connect.png",
+        "tags": ["godz", "ubisoft", "connect", "gaming", "app"]
+    },
+    {
+        "path": "App - Undo.png",
+        "name": "App - Undo.png",
+        "tags": ["godz", "undo", "back", "revert"]
+    },
+    {
+        "path": "App - Upload.png",
+        "name": "App - Upload.png",
+        "tags": ["godz", "upload", "transfer", "cloud"]
+    },
+    {
+        "path": "App - Visual-Code.png",
+        "name": "App - Visual-Code.png",
+        "tags": ["godz", "visual studio code", "vscode", "editor", "app"]
+    },
+    {
+        "path": "App - VLC-Player.png",
+        "name": "App - VLC-Player.png",
+        "tags": ["godz", "vlc", "player", "media", "video", "app"]
+    },
+    {
+        "path": "App - Voice-Lips.png",
+        "name": "App - Voice-Lips.png",
+        "tags": ["godz", "voice", "lips", "talk", "speech"]
+    },
+    {
+        "path": "App - WhatsApp.png",
+        "name": "App - WhatsApp.png",
+        "tags": ["godz", "whatsapp", "chat", "message", "app"]
+    },
+    {
+        "path": "App - Windows.png",
+        "name": "App - Windows.png",
+        "tags": ["godz", "windows", "microsoft", "os", "app"]
+    },
+    {
+        "path": "App - Wondershare.png",
+        "name": "App - Wondershare.png",
+        "tags": ["godz", "wondershare", "filmora", "video", "app"]
+    },
+    {
+        "path": "App - Word.png",
+        "name": "App - Word.png",
+        "tags": ["godz", "microsoft", "word", "document", "app"]
+    },
+    {
+        "path": "App - Youtube.png",
+        "name": "App - Youtube.png",
+        "tags": ["godz", "youtube", "video", "web", "app"]
+    },
+    {
+        "path": "App - Zoom-Out.png",
+        "name": "App - Zoom-Out.png",
+        "tags": ["godz", "zoom", "out", "magnify", "view"]
+    }
+]
