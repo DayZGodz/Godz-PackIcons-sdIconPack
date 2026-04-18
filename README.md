@@ -74,24 +74,24 @@ Todos os ícones disponíveis (visualização):
         <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Disco-H.png" width="48"><br>App - Disco-H.png</td>
     </tr>
     <tr>
-        <td align="center"><img src="https://share.google/P7U2fIhKZ1n04YgGxicons/App - Discord.png" width="48"><br>App - Discord.png</td>
-        <td align="center"><img src="https://share.google/P7U2fIhKZ1n04YgGxicons/App - Dreamweaver.png" width="48"><br>App - Dreamweaver.png</td>
-        <td align="center"><img src="https://share.google/P7U2fIhKZ1n04YgGxicons/App - Drop-Hue.png" width="48"><br>App - Drop-Hue.png</td>
-        <td align="center"><img src="https://share.google/P7U2fIhKZ1n04YgGxicons/App - Dropbox.png" width="48"><br>App - Dropbox.png</td>
-        <td align="center"><img src="https://share.google/P7U2fIhKZ1n04YgGxicons/App - E-mail-Mail.png" width="48"><br>App - E-mail-Mail.png</td>
-        <td align="center"><img src="https://share.google/P7U2fIhKZ1n04YgGxicons/App - Epic-Games.png" width="48"><br>App - Epic-Games.png</td>
-        <td align="center"><img src="https://share.google/P7U2fIhKZ1n04YgGxicons/App - Excel.png" width="48"><br>App - Excel.png</td>
-        <td align="center"><img src="https://share.google/P7U2fIhKZ1n04YgGxicons/App - Explorador-de-Arquivos.png" width="48"><br>App - Explorador-de-Arquivos.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Discord.png" width="48"><br>App - Discord.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Dreamweaver.png" width="48"><br>App - Dreamweaver.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Drop-Hue.png" width="48"><br>App - Drop-Hue.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Dropbox.png" width="48"><br>App - Dropbox.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - E-mail-Mail.png" width="48"><br>App - E-mail-Mail.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Epic-Games.png" width="48"><br>App - Epic-Games.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Excel.png" width="48"><br>App - Excel.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Explorador-de-Arquivos.png" width="48"><br>App - Explorador-de-Arquivos.png</td>
     </tr>
     <tr>
-        <td align="center"><img src="https://share.google/P7U2fIhKZ1n04YgGxicons/App - Facebook.png" width="48"><br>App - Facebook.png</td>
-        <td align="center"><img src="https://share.google/P7U2fIhKZ1n04YgGxicons/App - Favorite-Star.png" width="48"><br>App - Favorite-Star.png</td>
-        <td align="center"><img src="https://share.google/P7U2fIhKZ1n04YgGxicons/App - Ferramenta-de-Captura.png" width="48"><br>App - Ferramenta-de-Captura.png</td>
-        <td align="center"><img src="https://share.google/P7U2fIhKZ1n04YgGxicons/App - Fim-Live.png" width="48"><br>App - Fim-Live.png</td>
-        <td align="center"><img src="https://share.google/P7U2fIhKZ1n04YgGxicons/App - Fire-Hot.png" width="48"><br>App - Fire-Hot.png</td>
-        <td align="center"><img src="https://share.google/P7U2fIhKZ1n04YgGxicons/App - Firefox.png" width="48"><br>App - Firefox.png</td>
-        <td align="center"><img src="https://share.google/P7U2fIhKZ1n04YgGxicons/App - Folder.png" width="48"><br>App - Folder.png</td>
-        <td align="center"><img src="https://share.google/P7U2fIhKZ1n04YgGxicons/App - Gallery.png" width="48"><br>App - Gallery.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Facebook.png" width="48"><br>App - Facebook.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Favorite-Star.png" width="48"><br>App - Favorite-Star.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Ferramenta-de-Captura.png" width="48"><br>App - Ferramenta-de-Captura.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Fim-Live.png" width="48"><br>App - Fim-Live.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Fire-Hot.png" width="48"><br>App - Fire-Hot.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Firefox.png" width="48"><br>App - Firefox.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Folder.png" width="48"><br>App - Folder.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Gallery.png" width="48"><br>App - Gallery.png</td>
     </tr>
     <!-- Continue a tabela para todos os ícones, 8 por linha, seguindo o padrão acima, até o último ícone -->
 </table>
