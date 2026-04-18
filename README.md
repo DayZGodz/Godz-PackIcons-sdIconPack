@@ -14,84 +14,84 @@ Todos os ícones disponíveis (visualização):
 
 <table>
     <tr>
-        <td align="center"><img src="icons/App - Add-Remove-Stream.png" width="48"><br>App - Add-Remove-Stream.png</td>
-        <td align="center"><img src="icons/App - Adobe-Acrobat.png" width="48"><br>App - Adobe-Acrobat.png</td>
-        <td align="center"><img src="icons/App - Adobe-XD.png" width="48"><br>App - Adobe-XD.png</td>
-        <td align="center"><img src="icons/App - After-Effects.png" width="48"><br>App - After-Effects.png</td>
-        <td align="center"><img src="icons/App - Alert-Fast.png" width="48"><br>App - Alert-Fast.png</td>
-        <td align="center"><img src="icons/App - Alert-X-Check.png" width="48"><br>App - Alert-X-Check.png</td>
-        <td align="center"><img src="icons/App - Alert.png" width="48"><br>App - Alert.png</td>
-        <td align="center"><img src="icons/App - Align-Left-Center.png" width="48"><br>App - Align-Left-Center.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Add-Remove-Stream.png" width="48"><br>App - Add-Remove-Stream.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Adobe-Acrobat.png" width="48"><br>App - Adobe-Acrobat.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Adobe-XD.png" width="48"><br>App - Adobe-XD.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - After-Effects.png" width="48"><br>App - After-Effects.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Alert-Fast.png" width="48"><br>App - Alert-Fast.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Alert-X-Check.png" width="48"><br>App - Alert-X-Check.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Alert.png" width="48"><br>App - Alert.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Align-Left-Center.png" width="48"><br>App - Align-Left-Center.png</td>
     </tr>
     <tr>
-        <td align="center"><img src="icons/App - Amazon.png" width="48"><br>App - Amazon.png</td>
-        <td align="center"><img src="icons/App - AMD.png" width="48"><br>App - AMD.png</td>
-        <td align="center"><img src="icons/App - Animated.png" width="48"><br>App - Animated.png</td>
-        <td align="center"><img src="icons/App - ARK-ASCENDED.png" width="48"><br>App - ARK-ASCENDED.png</td>
-        <td align="center"><img src="icons/App - Arrow-Left.png" width="48"><br>App - Arrow-Left.png</td>
-        <td align="center"><img src="icons/App - Arrow-Right.png" width="48"><br>App - Arrow-Right.png</td>
-        <td align="center"><img src="icons/App - Audition.png" width="48"><br>App - Audition.png</td>
-        <td align="center"><img src="icons/App - Autodesk.png" width="48"><br>App - Autodesk.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Amazon.png" width="48"><br>App - Amazon.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - AMD.png" width="48"><br>App - AMD.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Animated.png" width="48"><br>App - Animated.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - ARK-ASCENDED.png" width="48"><br>App - ARK-ASCENDED.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Arrow-Left.png" width="48"><br>App - Arrow-Left.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Arrow-Right.png" width="48"><br>App - Arrow-Right.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Audition.png" width="48"><br>App - Audition.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Autodesk.png" width="48"><br>App - Autodesk.png</td>
     </tr>
     <tr>
-        <td align="center"><img src="icons/App - Battlefield-V.png" width="48"><br>App - Battlefield-V.png</td>
-        <td align="center"><img src="icons/App - Blender.png" width="48"><br>App - Blender.png</td>
-        <td align="center"><img src="icons/App - Bloco-de-Notas.png" width="48"><br>App - Bloco-de-Notas.png</td>
-        <td align="center"><img src="icons/App - Brigde.png" width="48"><br>App - Brigde.png</td>
-        <td align="center"><img src="icons/App - Brightness-Down.png" width="48"><br>App - Brightness-Down.png</td>
-        <td align="center"><img src="icons/App - Brightness-Up.png" width="48"><br>App - Brightness-Up.png</td>
-        <td align="center"><img src="icons/App - Broadcast.png" width="48"><br>App - Broadcast.png</td>
-        <td align="center"><img src="icons/App - Calculadora.png" width="48"><br>App - Calculadora.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Battlefield-V.png" width="48"><br>App - Battlefield-V.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Blender.png" width="48"><br>App - Blender.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Bloco-de-Notas.png" width="48"><br>App - Bloco-de-Notas.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Brigde.png" width="48"><br>App - Brigde.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Brightness-Down.png" width="48"><br>App - Brightness-Down.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Brightness-Up.png" width="48"><br>App - Brightness-Up.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Broadcast.png" width="48"><br>App - Broadcast.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Calculadora.png" width="48"><br>App - Calculadora.png</td>
     </tr>
     <tr>
-        <td align="center"><img src="icons/App - Cam-Off.png" width="48"><br>App - Cam-Off.png</td>
-        <td align="center"><img src="icons/App - Cam-Recording.png" width="48"><br>App - Cam-Recording.png</td>
-        <td align="center"><img src="icons/App - Cam-Switch.png" width="48"><br>App - Cam-Switch.png</td>
-        <td align="center"><img src="icons/App - Character-Animator.png" width="48"><br>App - Character-Animator.png</td>
-        <td align="center"><img src="icons/App - Chat-Bubble.png" width="48"><br>App - Chat-Bubble.png</td>
-        <td align="center"><img src="icons/App - Chat-Comms.png" width="48"><br>App - Chat-Comms.png</td>
-        <td align="center"><img src="icons/App - Chats-Gaming.png" width="48"><br>App - Chats-Gaming.png</td>
-        <td align="center"><img src="icons/App - Chromin.png" width="48"><br>App - Chromin.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Cam-Off.png" width="48"><br>App - Cam-Off.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Cam-Recording.png" width="48"><br>App - Cam-Recording.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Cam-Switch.png" width="48"><br>App - Cam-Switch.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Character-Animator.png" width="48"><br>App - Character-Animator.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Chat-Bubble.png" width="48"><br>App - Chat-Bubble.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Chat-Comms.png" width="48"><br>App - Chat-Comms.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Chats-Gaming.png" width="48"><br>App - Chats-Gaming.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Chromin.png" width="48"><br>App - Chromin.png</td>
     </tr>
     <tr>
-        <td align="center"><img src="icons/App - Clapperboard.png" width="48"><br>App - Clapperboard.png</td>
-        <td align="center"><img src="icons/App - Click-Touch.png" width="48"><br>App - Click-Touch.png</td>
-        <td align="center"><img src="icons/App - Color-Wheel.png" width="48"><br>App - Color-Wheel.png</td>
-        <td align="center"><img src="icons/App - Corsair.png" width="48"><br>App - Corsair.png</td>
-        <td align="center"><img src="icons/App - Creative-Cloud.png" width="48"><br>App - Creative-Cloud.png</td>
-        <td align="center"><img src="icons/App - Crown-Prime.png" width="48"><br>App - Crown-Prime.png</td>
-        <td align="center"><img src="icons/App - Crunchyroll!.png" width="48"><br>App - Crunchyroll!.png</td>
-        <td align="center"><img src="icons/App - CS2.png" width="48"><br>App - CS2.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Clapperboard.png" width="48"><br>App - Clapperboard.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Click-Touch.png" width="48"><br>App - Click-Touch.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Color-Wheel.png" width="48"><br>App - Color-Wheel.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Corsair.png" width="48"><br>App - Corsair.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Creative-Cloud.png" width="48"><br>App - Creative-Cloud.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Crown-Prime.png" width="48"><br>App - Crown-Prime.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Crunchyroll!.png" width="48"><br>App - Crunchyroll!.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - CS2.png" width="48"><br>App - CS2.png</td>
     </tr>
     <tr>
-        <td align="center"><img src="icons/App - Câmera.png" width="48"><br>App - Câmera.png</td>
-        <td align="center"><img src="icons/App - Dados-Gaming.png" width="48"><br>App - Dados-Gaming.png</td>
-        <td align="center"><img src="icons/App - Dimension.png" width="48"><br>App - Dimension.png</td>
-        <td align="center"><img src="icons/App - Disco-c.png" width="48"><br>App - Disco-c.png</td>
-        <td align="center"><img src="icons/App - Disco-D.png" width="48"><br>App - Disco-D.png</td>
-        <td align="center"><img src="icons/App - Disco-E.png" width="48"><br>App - Disco-E.png</td>
-        <td align="center"><img src="icons/App - Disco-F.png" width="48"><br>App - Disco-F.png</td>
-        <td align="center"><img src="icons/App - Disco-H.png" width="48"><br>App - Disco-H.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Câmera.png" width="48"><br>App - Câmera.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Dados-Gaming.png" width="48"><br>App - Dados-Gaming.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Dimension.png" width="48"><br>App - Dimension.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Disco-c.png" width="48"><br>App - Disco-c.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Disco-D.png" width="48"><br>App - Disco-D.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Disco-E.png" width="48"><br>App - Disco-E.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Disco-F.png" width="48"><br>App - Disco-F.png</td>
+        <td align="center"><img src="com.godz.PackIcons.sdIconPack/icons/App - Disco-H.png" width="48"><br>App - Disco-H.png</td>
     </tr>
     <tr>
-        <td align="center"><img src="icons/App - Discord.png" width="48"><br>App - Discord.png</td>
-        <td align="center"><img src="icons/App - Dreamweaver.png" width="48"><br>App - Dreamweaver.png</td>
-        <td align="center"><img src="icons/App - Drop-Hue.png" width="48"><br>App - Drop-Hue.png</td>
-        <td align="center"><img src="icons/App - Dropbox.png" width="48"><br>App - Dropbox.png</td>
-        <td align="center"><img src="icons/App - E-mail-Mail.png" width="48"><br>App - E-mail-Mail.png</td>
-        <td align="center"><img src="icons/App - Epic-Games.png" width="48"><br>App - Epic-Games.png</td>
-        <td align="center"><img src="icons/App - Excel.png" width="48"><br>App - Excel.png</td>
-        <td align="center"><img src="icons/App - Explorador-de-Arquivos.png" width="48"><br>App - Explorador-de-Arquivos.png</td>
+        <td align="center"><img src="https://share.google/P7U2fIhKZ1n04YgGxicons/App - Discord.png" width="48"><br>App - Discord.png</td>
+        <td align="center"><img src="https://share.google/P7U2fIhKZ1n04YgGxicons/App - Dreamweaver.png" width="48"><br>App - Dreamweaver.png</td>
+        <td align="center"><img src="https://share.google/P7U2fIhKZ1n04YgGxicons/App - Drop-Hue.png" width="48"><br>App - Drop-Hue.png</td>
+        <td align="center"><img src="https://share.google/P7U2fIhKZ1n04YgGxicons/App - Dropbox.png" width="48"><br>App - Dropbox.png</td>
+        <td align="center"><img src="https://share.google/P7U2fIhKZ1n04YgGxicons/App - E-mail-Mail.png" width="48"><br>App - E-mail-Mail.png</td>
+        <td align="center"><img src="https://share.google/P7U2fIhKZ1n04YgGxicons/App - Epic-Games.png" width="48"><br>App - Epic-Games.png</td>
+        <td align="center"><img src="https://share.google/P7U2fIhKZ1n04YgGxicons/App - Excel.png" width="48"><br>App - Excel.png</td>
+        <td align="center"><img src="https://share.google/P7U2fIhKZ1n04YgGxicons/App - Explorador-de-Arquivos.png" width="48"><br>App - Explorador-de-Arquivos.png</td>
     </tr>
     <tr>
-        <td align="center"><img src="icons/App - Facebook.png" width="48"><br>App - Facebook.png</td>
-        <td align="center"><img src="icons/App - Favorite-Star.png" width="48"><br>App - Favorite-Star.png</td>
-        <td align="center"><img src="icons/App - Ferramenta-de-Captura.png" width="48"><br>App - Ferramenta-de-Captura.png</td>
-        <td align="center"><img src="icons/App - Fim-Live.png" width="48"><br>App - Fim-Live.png</td>
-        <td align="center"><img src="icons/App - Fire-Hot.png" width="48"><br>App - Fire-Hot.png</td>
-        <td align="center"><img src="icons/App - Firefox.png" width="48"><br>App - Firefox.png</td>
-        <td align="center"><img src="icons/App - Folder.png" width="48"><br>App - Folder.png</td>
-        <td align="center"><img src="icons/App - Gallery.png" width="48"><br>App - Gallery.png</td>
+        <td align="center"><img src="https://share.google/P7U2fIhKZ1n04YgGxicons/App - Facebook.png" width="48"><br>App - Facebook.png</td>
+        <td align="center"><img src="https://share.google/P7U2fIhKZ1n04YgGxicons/App - Favorite-Star.png" width="48"><br>App - Favorite-Star.png</td>
+        <td align="center"><img src="https://share.google/P7U2fIhKZ1n04YgGxicons/App - Ferramenta-de-Captura.png" width="48"><br>App - Ferramenta-de-Captura.png</td>
+        <td align="center"><img src="https://share.google/P7U2fIhKZ1n04YgGxicons/App - Fim-Live.png" width="48"><br>App - Fim-Live.png</td>
+        <td align="center"><img src="https://share.google/P7U2fIhKZ1n04YgGxicons/App - Fire-Hot.png" width="48"><br>App - Fire-Hot.png</td>
+        <td align="center"><img src="https://share.google/P7U2fIhKZ1n04YgGxicons/App - Firefox.png" width="48"><br>App - Firefox.png</td>
+        <td align="center"><img src="https://share.google/P7U2fIhKZ1n04YgGxicons/App - Folder.png" width="48"><br>App - Folder.png</td>
+        <td align="center"><img src="https://share.google/P7U2fIhKZ1n04YgGxicons/App - Gallery.png" width="48"><br>App - Gallery.png</td>
     </tr>
     <!-- Continue a tabela para todos os ícones, 8 por linha, seguindo o padrão acima, até o último ícone -->
 </table>
